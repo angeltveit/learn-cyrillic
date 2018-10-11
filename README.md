@@ -3,3 +3,5 @@
 2) run `yarn`
 3) run `npm run serve`
 4) Start learning :)
+
+Currently only has UA🇺🇦mappings.
