@@ -22,6 +22,7 @@ import ua from '../../services/ua-cyrillic-map'
       }
       h2 {
         font-weight: 500;
+        height: 3em;
       }
       p {
         display: contents;
